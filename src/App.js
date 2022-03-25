@@ -1,11 +1,12 @@
 import React from 'react';
 import './App.css';
+import Imessage from './Imessage';
 
 function App() {
   return (
     <div className="App">
-      <h1>Lets fucking build this shit</h1>  
-    </div>
+      <Imessage />  
+    </div>    
   );
 }
 
